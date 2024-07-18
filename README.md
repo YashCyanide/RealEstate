@@ -1,4 +1,6 @@
-Sure! Here’s a sample README file for your real estate website built using React with functionalities like buy, rent, chat, and listing new properties.
+![image](https://github.com/user-attachments/assets/2ba496d6-7e93-46d2-9384-4b867dc4f961)
+![image](https://github.com/user-attachments/assets/e9debf29-b952-4d76-b771-51a00955d48a)
+![image](https://github.com/user-attachments/assets/0218c3fd-ab2b-4f33-8992-44737fcd27b0)
 
 ---
 
